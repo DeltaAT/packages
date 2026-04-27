@@ -164,7 +164,7 @@
   body,
   author: "Your Name",
   class-long: "Protokoll",
-  logo: image("../examples/logo.png"),
+  logo: image("../example/logo.png"),
   school-year: "2025/26",
   title: "Title",
   subtitle: "Subtitle",
