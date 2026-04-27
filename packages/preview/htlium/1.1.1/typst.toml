@@ -12,6 +12,6 @@ categories = ["layout", "paper"]
 disciplines = ["computer-science", "education"]
 
 [template]
-path = "example"
+path = "src"
 entrypoint = "main.typ"
 thumbnail = "thumbnail.png"
